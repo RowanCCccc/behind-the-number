@@ -1,7 +1,7 @@
 # Behind the Number
 **What medical AI headlines don't tell you.**
 
-**Live demo:** [behind-the-number.streamlit.app](https://behind-the-number.streamlit.app/) · **Video:** [YouTube](VIDEO_LINK)
+**Live demo:** [behind-the-number.streamlit.app](https://behind-the-number.streamlit.app/) · **Video:** [YouTube](https://youtu.be/SE5D29FhRFk)
 
 Behind the Number is a web tool that helps non-experts understand the numbers in medical AI studies.
 
@@ -95,7 +95,7 @@ python3 -m streamlit run app.py
 
 ## About
 Built by Rowan (Liujun) Chen, MSc Health Informatics with Data Science,
-University of Leeds, for DSH Hacks V2 (November 2026). [LinkedIn](LINKEDIN_LINK)
+University of Leeds, for DSH Hacks V2 (November 2026). [LinkedIn](www.linkedin.com/in/rowan-chen-58b35a445)
 
 ## License
 MIT
